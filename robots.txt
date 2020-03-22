@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmahjiegh.clouddevdan.com/sitemap.xml
